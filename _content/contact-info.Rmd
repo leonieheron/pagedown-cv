@@ -6,9 +6,8 @@
 |:------:|:-----|
 | <i class="fas fa-map-marker-alt"></i>|Department of Computer Science,\
 University of Oxford, UK|
-| <i class="fas fa-envelope"></i> | ulrik.lyngs\@cs.ox.ac.uk |
-| <i class="fas fa-globe"></i> | [ulriklyngs.com](https://ulriklyngs.com) |
-| <i class="fab fa-github"></i> | [ulyngs](https://github.com/ulyngs) |
+| <i class="fas fa-envelope"></i> | leonie.heron\@ispm.unibe.ch |
+| <i class="fab fa-github"></i> | [leonieheron](https://github.com/leonieheron) |
  
 </div>
 ```
